@@ -1,14 +1,14 @@
-# Template Repo for Epicodus
+# TODO List App
 
-## By Bobby Martin
+## By Bobby Martin and Luke Stockburger
 
 # Description
-This is a template directory to make things go quicker in the morning.
+This is a TODO List application using Objects and jQuery
 
 # Specifications
-* The program will hold the necessary files and folders for easy cloneing
-  * Input Example: **Example**
-  * Output Example: **Example**
+* The program adds a task
+  * **Input Example: Get Bananas**
+  * **Output Example: "Get Bananas"**
 
 # Setup Requirements
 * Clone this repository
