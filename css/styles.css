@@ -7,8 +7,15 @@
   outline: none;
   box-shadow: none;
 }
-
+#todoList {
+  width: 100%;
+}
 #todoList ul {
   list-style: none;
   padding: 0;
+}
+#todoList ul li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
